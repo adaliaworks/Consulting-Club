@@ -24,12 +24,7 @@ Then open **http://localhost:8080**. The nav and footer will render correctly.
 
 ### GoatCounter analytics
 
-1. Sign up at [goatcounter.com](https://www.goatcounter.com) and create a site.
-2. Copy your site code (the subdomain before `.goatcounter.com`).
-3. Open `partials/footer.html` and replace `YOURCODE` with your code:
-   ```
-   data-goatcounter="https://YOURCODE.goatcounter.com/count"
-   ```
+Already configured. The script in `partials/footer.html` points to `https://consultingclub.goatcounter.com/count` and will fire on every page once the site is live.
 
 ### Amazon affiliate tag
 

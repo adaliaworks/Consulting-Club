@@ -31,17 +31,17 @@ Draft file: `/_review/phase-1-shell.md`
 
 | Page | URL | MD drafted | Approved | HTML built |
 |---|---|---|---|---|
-| Home | `/` | [ ] | [ ] | [ ] |
-| The Concept | `/about/` | [ ] | [ ] | [ ] |
-| Library Landing | `/library/` | [ ] | [ ] | [ ] |
-| Category: Scoping & Diagnosis | `/library/scoping-diagnosis/` | [ ] | [ ] | [ ] |
-| Category: Analysis & Frameworks | `/library/analysis-frameworks/` | [ ] | [ ] | [ ] |
-| Category: Strategy & Planning | `/library/strategy-planning/` | [ ] | [ ] | [ ] |
-| Category: Execution & Change | `/library/execution-change/` | [ ] | [ ] | [ ] |
-| Category: Synthesis & Communication | `/library/synthesis-communication/` | [ ] | [ ] | [ ] |
-| Category: Session Kit | `/library/session-kit/` | [ ] | [ ] | [ ] |
-| Express Interest Form | `/learn-more/` | [ ] | [ ] | [ ] |
-| Thank You | `/learn-more/thanks/` | [ ] | [ ] | [ ] |
+| Home | `/` | ✅ | ✅ | ✅ |
+| The Concept | `/about/` | ✅ | ✅ | ✅ |
+| Library Landing | `/library/` | ✅ | ✅ | ✅ |
+| Category: Scoping & Diagnosis | `/library/scoping-diagnosis/` | ✅ | ✅ | ✅ |
+| Category: Analysis & Frameworks | `/library/analysis-frameworks/` | ✅ | ✅ | ✅ |
+| Category: Strategy & Planning | `/library/strategy-planning/` | ✅ | ✅ | ✅ |
+| Category: Execution & Change | `/library/execution-change/` | ✅ | ✅ | ✅ |
+| Category: Synthesis & Communication | `/library/synthesis-communication/` | ✅ | ✅ | ✅ |
+| Category: Session Kit | `/library/session-kit/` | ✅ | ✅ | ✅ |
+| Express Interest Form | `/learn-more/` | ✅ | ✅ | ✅ |
+| Thank You | `/learn-more/thanks/` | ✅ | ✅ | ✅ |
 
 ---
 
@@ -148,7 +148,7 @@ Draft file: `/_review/phase-7-session-kit.md`
 | Amazon Associates disclosure in footer | [ ] |
 | Nav/header/footer render consistently on all pages | [ ] |
 | Learn More form has redirect hidden field | [ ] |
-| GoatCounter placeholder flagged in README | [ ] |
+| GoatCounter configured (`consultingclub.goatcounter.com`) | ✅ |
 | CNAME present and correct | [ ] |
 | Mobile nav tested | [ ] |
 | `python3 -m http.server` local preview verified | [ ] |

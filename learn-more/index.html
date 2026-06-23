@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Express Interest — Consulting Club</title>
+  <meta name="description" content="Consulting Club is small by design. Tell us a bit about yourself.">
+  <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main class="form-page">
+
+    <div class="page-header">
+      <div class="container">
+        <h1>Express Interest</h1>
+        <p class="page-tagline">Consulting Club is small by design. Tell us a bit about yourself.</p>
+      </div>
+    </div>
+
+    <div class="form-container">
+      <p style="color: var(--color-muted); margin-bottom: var(--sp-lg); line-height: 1.65;">Consulting Club is a gathering of experienced professionals who want to keep sharp, stay curious, and occasionally be very honest with each other. Sessions are monthly, invitations are personal, and the group stays small enough that everyone in the room matters.</p>
+      <p style="margin-bottom: var(--sp-xl); color: var(--color-muted);">If it sounds like your kind of afternoon, we'd love to hear from you.</p>
+
+      <form action="https://api.web3forms.com/submit" method="POST">
+        <input type="hidden" name="access_key" value="066147e1-8bd0-4135-add3-9ba1b2205a2c">
+        <input type="hidden" name="subject" value="New Consulting Club interest">
+        <input type="hidden" name="from_name" value="Consulting Club site">
+        <input type="hidden" name="redirect" value="https://cc.adaliaadvisors.com/learn-more/thanks/">
+        <input type="checkbox" name="botcheck" style="display:none" tabindex="-1" autocomplete="off">
+
+        <label>
+          Name
+          <input type="text" name="name" required autocomplete="name">
+        </label>
+
+        <label>
+          Email
+          <input type="email" name="email" required autocomplete="email">
+        </label>
+
+        <label>
+          What interests you about Consulting Club?
+          <textarea name="message" required></textarea>
+        </label>
+
+        <div class="form-submit">
+          <button type="submit" class="btn btn-primary btn-lg">Express Interest</button>
+        </div>
+      </form>
+
+      <p style="margin-top: var(--sp-lg); font-size: 0.875rem; color: var(--color-muted); font-style: italic;">We'll follow up personally. No mailing list, no newsletter, no automated drip.</p>
+    </div>
+
+  </main>
+
+  <div id="site-footer"></div>
+  <script src="/assets/nav.js"></script>
+</body>
+</html>

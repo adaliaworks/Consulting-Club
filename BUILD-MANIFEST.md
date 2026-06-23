@@ -51,13 +51,13 @@ Draft file: `/_review/phase-2-scoping-diagnosis.md`
 
 | Page | URL | MD drafted | Approved | HTML built |
 |---|---|---|---|---|
-| Problem Framing | `/library/scoping-diagnosis/problem-framing/` | [ ] | [ ] | [ ] |
-| The Double Diamond | `/library/scoping-diagnosis/double-diamond/` | [ ] | [ ] | [ ] |
-| Issue Trees & MECE | `/library/scoping-diagnosis/issue-trees-mece/` | [ ] | [ ] | [ ] |
-| Hypothesis-Driven Approach | `/library/scoping-diagnosis/hypothesis-driven/` | [ ] | [ ] | [ ] |
-| Stakeholder Mapping | `/library/scoping-diagnosis/stakeholder-mapping/` | [ ] | [ ] | [ ] |
-| Root-Cause Tools | `/library/scoping-diagnosis/root-cause-tools/` | [ ] | [ ] | [ ] |
-| Scoping the Engagement | `/library/scoping-diagnosis/scoping-engagement/` | [ ] | [ ] | [ ] |
+| Problem Framing | `/library/scoping-diagnosis/problem-framing/` | ✅ | ✅ | ✅ |
+| The Double Diamond | `/library/scoping-diagnosis/double-diamond/` | ✅ | ✅ | ✅ |
+| Issue Trees & MECE | `/library/scoping-diagnosis/issue-trees-mece/` | ✅ | ✅ | ✅ |
+| Hypothesis-Driven Approach | `/library/scoping-diagnosis/hypothesis-driven/` | ✅ | ✅ | ✅ |
+| Stakeholder Mapping | `/library/scoping-diagnosis/stakeholder-mapping/` | ✅ | ✅ | ✅ |
+| Root-Cause Tools | `/library/scoping-diagnosis/root-cause-tools/` | ✅ | ✅ | ✅ |
+| Scoping the Engagement | `/library/scoping-diagnosis/scoping-engagement/` | ✅ | ✅ | ✅ |
 
 ---
 

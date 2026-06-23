@@ -1,6 +1,6 @@
 # Consulting Club
 
-Static website for Consulting Club, served at **cc.adaliaadvisors.com**.
+Static website for Consulting Club, served at **cc.adaliaworks.com**.
 
 ## Local preview
 
@@ -16,9 +16,9 @@ Then open **http://localhost:8080**. The nav and footer will render correctly.
 ## Deployment (GitHub Pages)
 
 1. Push the repo to GitHub (or copy contents into your GitHub Pages repo).
-2. Confirm `CNAME` contains exactly `cc.adaliaadvisors.com`.
+2. Confirm `CNAME` contains exactly `cc.adaliaworks.com`.
 3. In the repo Settings → Pages, set source to the `main` branch root.
-4. GitHub Pages will serve the site at `cc.adaliaadvisors.com` once DNS propagates.
+4. GitHub Pages will serve the site at `cc.adaliaworks.com` once DNS propagates.
 
 ## Before launch — two things to configure
 

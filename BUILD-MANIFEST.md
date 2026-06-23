@@ -67,16 +67,16 @@ Draft file: `/_review/phase-3-analysis-frameworks.md`
 
 | Page | URL | MD drafted | Approved | HTML built |
 |---|---|---|---|---|
-| SWOT | `/library/analysis-frameworks/swot/` | [ ] | [ ] | [ ] |
-| Porter's Five Forces | `/library/analysis-frameworks/porters-five-forces/` | [ ] | [ ] | [ ] |
-| PESTEL | `/library/analysis-frameworks/pestel/` | [ ] | [ ] | [ ] |
-| Value Chain Analysis | `/library/analysis-frameworks/value-chain-analysis/` | [ ] | [ ] | [ ] |
-| BCG Matrix & GE/McKinsey Nine-Box | `/library/analysis-frameworks/bcg-matrix/` | [ ] | [ ] | [ ] |
-| Ansoff Matrix | `/library/analysis-frameworks/ansoff-matrix/` | [ ] | [ ] | [ ] |
-| McKinsey 7S | `/library/analysis-frameworks/mckinsey-7s/` | [ ] | [ ] | [ ] |
-| Marketing Mix (4Ps / 7Ps) & Jobs-to-be-Done | `/library/analysis-frameworks/marketing-mix/` | [ ] | [ ] | [ ] |
-| Profit / Profitability Tree | `/library/analysis-frameworks/profit-tree/` | [ ] | [ ] | [ ] |
-| Market Sizing & Estimation | `/library/analysis-frameworks/market-sizing/` | [ ] | [ ] | [ ] |
+| SWOT | `/library/analysis-frameworks/swot/` | ✅ | ✅ | ✅ |
+| Porter's Five Forces | `/library/analysis-frameworks/porters-five-forces/` | ✅ | ✅ | ✅ |
+| PESTEL | `/library/analysis-frameworks/pestel/` | ✅ | ✅ | ✅ |
+| Value Chain Analysis | `/library/analysis-frameworks/value-chain-analysis/` | ✅ | ✅ | ✅ |
+| BCG Matrix & GE/McKinsey Nine-Box | `/library/analysis-frameworks/bcg-matrix/` | ✅ | ✅ | ✅ |
+| Ansoff Matrix | `/library/analysis-frameworks/ansoff-matrix/` | ✅ | ✅ | ✅ |
+| McKinsey 7S | `/library/analysis-frameworks/mckinsey-7s/` | ✅ | ✅ | ✅ |
+| Marketing Mix (4Ps / 7Ps) & Jobs-to-be-Done | `/library/analysis-frameworks/marketing-mix/` | ✅ | ✅ | ✅ |
+| Profit / Profitability Tree | `/library/analysis-frameworks/profit-tree/` | ✅ | ✅ | ✅ |
+| Market Sizing & Estimation | `/library/analysis-frameworks/market-sizing/` | ✅ | ✅ | ✅ |
 
 ---
 

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profit / Profitability Tree — Analysis &amp; Frameworks — Consulting Club</title>
+  <meta name="description" content="A structured decomposition of a business's profit into its component drivers — used to isolate the source of a profitability problem and identify the highest-leverage intervention.">
+  <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+  <div id="site-header"></div>
+  <main class="framework-page">
+    <div class="page-header">
+      <div class="container">
+        <p class="breadcrumb"><a href="/library/">Library</a><span>›</span><a href="/library/analysis-frameworks/">Analysis &amp; Frameworks</a><span>›</span>Profit / Profitability Tree</p>
+        <h1>Profit / Profitability Tree</h1>
+        <p class="page-tagline">Decomposing a profitability problem into its drivers.</p>
+      </div>
+    </div>
+    <div class="content-body framework-body">
+
+      <h2>Overview</h2>
+      <p>The Profitability Tree is a consulting application of standard financial decomposition — not attributed to one person, but a standard in firm training and case interviewing. The foundational identity is elementary: <strong>Profit = Revenue − Cost</strong>. The power is in how the tree systematically breaks each driver into sub-drivers, following the logic until every branch reaches a lever that is specific, measurable, and actionable.</p>
+      <p>The analytical lineage traces partly to <strong>DuPont Analysis</strong>, developed in 1914 by <strong>Donaldson Brown</strong> at E.I. du Pont de Nemours and Company — one of the earliest formal uses of ratio decomposition to break down return on equity into its operational components (net profit margin × asset turnover × financial leverage). The Profitability Tree applies the same discipline to the P&amp;L in the context of a specific client problem.</p>
+      <p>The profitability problem is one of the most common consulting archetypes because declining margins affect virtually every business at some point, and because the answer is almost always in the details: is this a revenue problem or a cost problem? If revenue, is it price or volume? If volume, is it market growth or market share? The tree forces the analysis to that level before any solutions are proposed.</p>
+      <p>A standard tree structure:</p>
+      <ul>
+        <li><strong>Profit = Revenue − Cost</strong>
+          <ul>
+            <li><strong>Revenue = Price × Volume</strong>
+              <ul>
+                <li>Price: average selling price, pricing architecture, product/customer mix effects</li>
+                <li>Volume: units sold = market size × market share; or transactions × average basket size</li>
+              </ul>
+            </li>
+            <li><strong>Cost = Fixed Cost + Variable Cost</strong>
+              <ul>
+                <li>Fixed: overhead, depreciation, R&amp;D, G&amp;A — costs that don't move with volume</li>
+                <li>Variable: cost per unit × units = COGS, direct labor, direct materials, commissions</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <p>Each branch continues until it reaches specific, measurable drivers — the level where the data either confirms or rules out that branch as the source of the problem.</p>
+
+      <h2>When to Use It</h2>
+      <p>Whenever the client's question involves profitability: "Our margins are declining — why?" "We're growing revenue but losing money." "How do we improve EBITDA by 3 points?" The Profitability Tree is the first tool to reach for because it gives the analysis structure before any data is examined, preventing the team from jumping to solutions before identifying which branch of the tree is actually broken.</p>
+
+      <h2>How It Works</h2>
+      <ol>
+        <li><strong>State the profitability question clearly</strong> — what metric is the client trying to improve? Gross margin? Net income? EBITDA? Operating margin? The right tree depends on the right metric.</li>
+        <li><strong>Draw the top-level split</strong> — Profit = Revenue − Cost. Always the starting point.</li>
+        <li><strong>Decompose each branch</strong> — break Revenue into Price × Volume; break Cost into Fixed + Variable (or by cost category). Apply MECE at every level: branches should not overlap, and together they should explain the full driver (see <a href="/library/scoping-diagnosis/issue-trees-mece/">Issue Trees &amp; MECE</a>).</li>
+        <li><strong>Follow the data to find the problem branch</strong> — which part of the tree explains the decline or gap? Once identified, go deeper into that branch specifically.</li>
+        <li><strong>Apply root-cause tools on the broken branch</strong> — use <a href="/library/scoping-diagnosis/root-cause-tools/">5 Whys or fishbone</a> to understand why that driver is underperforming.</li>
+        <li><strong>Size the opportunity</strong> — how much of the profitability problem does this branch explain? If fixing the identified issue restores 80% of the lost profit, you've found the primary lever.</li>
+      </ol>
+
+      <div class="session-callout">
+        <h2>Running It in a Session</h2>
+        <p>When the Client presents a margin or profitability problem, the Analyst's first move is to sketch the tree on the board in the first 10 minutes. Assign team members to investigate specific branches in parallel — the Lead Consultant takes Revenue, the Analyst takes Cost, the Skeptic tracks which branches are being ruled out.</p>
+        <p>At the midpoint check-in (around minute 45), force the team to commit to the branch where the problem lives before going deeper. A team still analyzing all branches with 20 minutes left has lost focus. The "Would I hire?" test in profitability cases often comes down to this: did the team find the broken branch and follow it to a root cause, or did they describe all branches equally and present a balanced-but-inconclusive analysis?</p>
+      </div>
+
+      <h2>Common Pitfalls</h2>
+      <ul>
+        <li><strong>Staying at the top level</strong> — concluding "it's a revenue problem" without identifying whether it's price, volume, or mix is incomplete; the tree only adds value if you go deep enough</li>
+        <li><strong>Non-MECE splits</strong> — branches that overlap or leave gaps produce double-counting or missed drivers; check MECE at every level</li>
+        <li><strong>Ignoring mix effects</strong> — average selling price can fall even if no individual product's price changes, if the sales mix shifts toward lower-priced products; mix is often the hidden driver</li>
+        <li><strong>Tautology instead of diagnosis</strong> — "revenue is declining because customers aren't buying" restates the problem; the tree should push past the symptom to the underlying driver</li>
+        <li><strong>Forgetting the cost side</strong> — teams often fixate on revenue decline and underinvestigate whether cost increases are the real or co-contributing issue</li>
+      </ul>
+
+      <div class="references-box">
+        <h2>References &amp; Further Reading</h2>
+        <ul>
+          <li>Rasiel, Ethan M. <em>The McKinsey Way</em> (1999, McGraw-Hill)</li>
+          <li>Conn, Charles and McLean, Robert. <em>Bulletproof Problem Solving</em> (2019, Wiley) — the most thorough modern treatment of structured decomposition</li>
+        </ul>
+      </div>
+      <h3>Recommended Books</h3>
+      <ul class="book-list">
+        <li><a href="https://www.amazon.com/s?k=the+mckinsey+way+rasiel&tag=tmiller0e-20"><em>The McKinsey Way</em></a> — Ethan Rasiel</li>
+        <li><a href="https://www.amazon.com/s?k=bulletproof+problem+solving+conn+mclean&tag=tmiller0e-20"><em>Bulletproof Problem Solving</em></a> — Charles Conn &amp; Robert McLean</li>
+        <li><a href="https://www.amazon.com/s?k=financial+intelligence+berman+knight&tag=tmiller0e-20"><em>Financial Intelligence</em></a> — Karen Berman &amp; Joe Knight</li>
+      </ul>
+
+    </div>
+  </main>
+  <div id="site-footer"></div>
+  <script src="/assets/nav.js"></script>
+</body>
+</html>

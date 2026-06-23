@@ -9,7 +9,7 @@ These become the Home, About, Library landing, 6 category landings, Learn More, 
 
 ### Hero
 
-**H1:** Keep your consulting sharp.
+**H1:** Sharpen your consulting skills.
 
 **Subhead:** A monthly practice arena for experienced professionals — one real client problem, an ad hoc consulting team, 90 minutes, and a debrief where everyone answers *Would I hire these people?*
 
@@ -114,7 +114,7 @@ For members who are curious about a pivot into consulting or advisory work — w
 
 ### Lineage
 
-> *[Owner: please add a sentence or two on how Consulting Club started — the first session, who was involved, the original impulse. I've left this section intentionally open so you can put the real story here in your own words. Two or three sentences is plenty.]*
+Consulting club started when a few college friends reconnected at various stages of career transition and asked "what will you do next?" We all enjoyed working on projects together in school, why not "get the band back together" and see what we've learned since then, and what we still need to learn?
 
 ---
 

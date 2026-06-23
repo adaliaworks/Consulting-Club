@@ -86,14 +86,14 @@ Draft file: `/_review/phase-4-strategy-planning.md`
 
 | Page | URL | MD drafted | Approved | HTML built |
 |---|---|---|---|---|
-| OKRs | `/library/strategy-planning/okrs/` | [ ] | [ ] | [ ] |
-| Balanced Scorecard | `/library/strategy-planning/balanced-scorecard/` | [ ] | [ ] | [ ] |
-| OGSM | `/library/strategy-planning/ogsm/` | [ ] | [ ] | [ ] |
-| Blue Ocean Strategy | `/library/strategy-planning/blue-ocean-strategy/` | [ ] | [ ] | [ ] |
-| Three Horizons | `/library/strategy-planning/three-horizons/` | [ ] | [ ] | [ ] |
-| Scenario Planning | `/library/strategy-planning/scenario-planning/` | [ ] | [ ] | [ ] |
-| Wardley Mapping | `/library/strategy-planning/wardley-mapping/` | [ ] | [ ] | [ ] |
-| Business Model Canvas | `/library/strategy-planning/business-model-canvas/` | [ ] | [ ] | [ ] |
+| OKRs | `/library/strategy-planning/okrs/` | ✅ | ✅ | ✅ |
+| Balanced Scorecard | `/library/strategy-planning/balanced-scorecard/` | ✅ | ✅ | ✅ |
+| OGSM | `/library/strategy-planning/ogsm/` | ✅ | ✅ | ✅ |
+| Blue Ocean Strategy | `/library/strategy-planning/blue-ocean-strategy/` | ✅ | ✅ | ✅ |
+| Three Horizons | `/library/strategy-planning/three-horizons/` | ✅ | ✅ | ✅ |
+| Scenario Planning | `/library/strategy-planning/scenario-planning/` | ✅ | ✅ | ✅ |
+| Wardley Mapping | `/library/strategy-planning/wardley-mapping/` | ✅ | ✅ | ✅ |
+| Business Model Canvas | `/library/strategy-planning/business-model-canvas/` | ✅ | ✅ | ✅ |
 
 ---
 

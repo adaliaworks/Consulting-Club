@@ -103,10 +103,10 @@ Draft file: `/_review/phase-5-execution-change.md`
 
 | Page | URL | MD drafted | Approved | HTML built |
 |---|---|---|---|---|
-| RACI | `/library/execution-change/raci/` | [ ] | [ ] | [ ] |
-| Kotter's 8 Steps & ADKAR | `/library/execution-change/kotters-8-steps/` | [ ] | [ ] | [ ] |
-| Lean / Value-Stream Mapping & Six Sigma (DMAIC) | `/library/execution-change/lean-six-sigma/` | [ ] | [ ] | [ ] |
-| Prioritization | `/library/execution-change/prioritization/` | [ ] | [ ] | [ ] |
+| RACI | `/library/execution-change/raci/` | ✅ | ✅ | ✅ |
+| Kotter's 8 Steps & ADKAR | `/library/execution-change/kotters-8-steps/` | ✅ | ✅ | ✅ |
+| Lean / Value-Stream Mapping & Six Sigma (DMAIC) | `/library/execution-change/lean-six-sigma/` | ✅ | ✅ | ✅ |
+| Prioritization | `/library/execution-change/prioritization/` | ✅ | ✅ | ✅ |
 
 ---
 
@@ -116,10 +116,10 @@ Draft file: `/_review/phase-6-synthesis-communication.md`
 
 | Page | URL | MD drafted | Approved | HTML built |
 |---|---|---|---|---|
-| The Pyramid Principle | `/library/synthesis-communication/pyramid-principle/` | [ ] | [ ] | [ ] |
-| Executive-Summary Discipline | `/library/synthesis-communication/executive-summary/` | [ ] | [ ] | [ ] |
-| Storyboarding the Deck | `/library/synthesis-communication/storyboarding/` | [ ] | [ ] | [ ] |
-| The "So What?" Test | `/library/synthesis-communication/so-what-test/` | [ ] | [ ] | [ ] |
+| The Pyramid Principle | `/library/synthesis-communication/pyramid-principle/` | ✅ | ✅ | ✅ |
+| Executive-Summary Discipline | `/library/synthesis-communication/executive-summary/` | ✅ | ✅ | ✅ |
+| Storyboarding the Deck | `/library/synthesis-communication/storyboarding/` | ✅ | ✅ | ✅ |
+| The "So What?" Test | `/library/synthesis-communication/so-what-test/` | ✅ | ✅ | ✅ |
 
 ---
 
@@ -129,12 +129,12 @@ Draft file: `/_review/phase-7-session-kit.md`
 
 | Page | URL | MD drafted | Approved | HTML built |
 |---|---|---|---|---|
-| Client Brief Template | `/library/session-kit/client-brief-template/` | [ ] | [ ] | [ ] |
-| Role Cards | `/library/session-kit/role-cards/` | [ ] | [ ] | [ ] |
-| Starter Cases | `/library/session-kit/starter-cases/` | [ ] | [ ] | [ ] |
-| Timekeeper / Agenda Card | `/library/session-kit/timekeeper-agenda/` | [ ] | [ ] | [ ] |
-| Debrief & "Would I Hire You?" Scorecard | `/library/session-kit/debrief-scorecard/` | [ ] | [ ] | [ ] |
-| Facilitator's Guide | `/library/session-kit/facilitators-guide/` | [ ] | [ ] | [ ] |
+| Client Brief Template | `/library/session-kit/client-brief-template/` | ✅ | ✅ | ✅ |
+| Role Cards | `/library/session-kit/role-cards/` | ✅ | ✅ | ✅ |
+| Starter Cases | `/library/session-kit/starter-cases/` | ✅ | ✅ | ✅ |
+| Timekeeper / Agenda Card | `/library/session-kit/timekeeper-agenda/` | ✅ | ✅ | ✅ |
+| Debrief & "Would I Hire You?" Scorecard | `/library/session-kit/debrief-scorecard/` | ✅ | ✅ | ✅ |
+| Facilitator's Guide | `/library/session-kit/facilitators-guide/` | ✅ | ✅ | ✅ |
 
 ---
 

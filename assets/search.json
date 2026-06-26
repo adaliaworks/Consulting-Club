@@ -1,0 +1,275 @@
+[
+  {
+    "title": "Problem Framing",
+    "url": "/library/scoping-diagnosis/problem-framing/",
+    "description": "Translating a vague client concern into a precise, answerable question before any analysis begins.",
+    "category": "Scoping & Diagnosis",
+    "tags": ["problem definition", "framing", "question formulation", "problem statement", "ambiguity", "diagnosis", "scoping"]
+  },
+  {
+    "title": "The Double Diamond",
+    "url": "/library/scoping-diagnosis/double-diamond/",
+    "description": "A design-thinking process that separates problem exploration from solution development through two rounds of divergent and convergent thinking.",
+    "category": "Scoping & Diagnosis",
+    "tags": ["design thinking", "Design Council", "IDEO", "divergent", "convergent", "discovery", "define", "develop", "deliver"]
+  },
+  {
+    "title": "Issue Trees & MECE",
+    "url": "/library/scoping-diagnosis/issue-trees-mece/",
+    "description": "A structured decomposition of any problem into mutually exclusive, collectively exhaustive branches that make complex questions manageable.",
+    "category": "Scoping & Diagnosis",
+    "tags": ["MECE", "issue tree", "logic tree", "mutually exclusive", "collectively exhaustive", "Barbara Minto", "McKinsey", "problem decomposition", "hypothesis tree"]
+  },
+  {
+    "title": "Hypothesis-Driven Approach",
+    "url": "/library/scoping-diagnosis/hypothesis-driven/",
+    "description": "Starting with a provisional answer before you have all the data — then proving or disproving it — so analysis is always in service of a decision.",
+    "category": "Scoping & Diagnosis",
+    "tags": ["hypothesis", "hypothesis-driven", "ghost deck", "McKinsey", "answer first", "structured analysis", "analytical approach", "pyramid principle"]
+  },
+  {
+    "title": "Stakeholder Mapping",
+    "url": "/library/scoping-diagnosis/stakeholder-mapping/",
+    "description": "Identifying who has a stake in the outcome, how much influence they hold, and where they stand — so you can build the right coalition for your recommendation.",
+    "category": "Scoping & Diagnosis",
+    "tags": ["stakeholder", "influence", "interest", "power grid", "coalition", "change management", "political", "buy-in", "Eden", "Ackermann"]
+  },
+  {
+    "title": "Root-Cause Tools",
+    "url": "/library/scoping-diagnosis/root-cause-tools/",
+    "description": "Structured methods for tracing symptoms back to their underlying causes — so the recommendation addresses the real problem, not its visible effects.",
+    "category": "Scoping & Diagnosis",
+    "tags": ["root cause", "5 whys", "fishbone", "Ishikawa", "Taiichi Ohno", "Toyota", "cause and effect", "diagnosis", "causal analysis", "why analysis"]
+  },
+  {
+    "title": "Scoping the Engagement",
+    "url": "/library/scoping-diagnosis/scoping-engagement/",
+    "description": "Defining the boundaries of a consulting engagement before work begins — what's in scope, what isn't, how success will be measured, and what deliverables will look like.",
+    "category": "Scoping & Diagnosis",
+    "tags": ["scope", "engagement", "SOW", "statement of work", "deliverables", "project charter", "client management", "boundaries"]
+  },
+  {
+    "title": "SWOT",
+    "url": "/library/analysis-frameworks/swot/",
+    "description": "A structured audit of an organization's Strengths, Weaknesses, Opportunities, and Threats — the four quadrants that frame any strategic situation assessment.",
+    "category": "Analysis & Frameworks",
+    "tags": ["SWOT", "strengths", "weaknesses", "opportunities", "threats", "Harvard", "Andrews", "strategic audit", "situational analysis"]
+  },
+  {
+    "title": "Porter's Five Forces",
+    "url": "/library/analysis-frameworks/porters-five-forces/",
+    "description": "A framework for analyzing the competitive forces that shape industry profitability — revealing whether an industry is structurally attractive and where the power lies.",
+    "category": "Analysis & Frameworks",
+    "tags": ["Porter", "Michael Porter", "five forces", "competitive advantage", "industry analysis", "rivalry", "bargaining power", "substitutes", "new entrants", "Harvard"]
+  },
+  {
+    "title": "PESTEL",
+    "url": "/library/analysis-frameworks/pestel/",
+    "description": "A macro-environment audit across Political, Economic, Social, Technological, Environmental, and Legal dimensions — revealing the external forces shaping a market.",
+    "category": "Analysis & Frameworks",
+    "tags": ["PESTEL", "PESTLE", "PEST", "macro environment", "political", "economic", "social", "technological", "environmental", "legal", "external analysis"]
+  },
+  {
+    "title": "Value Chain Analysis",
+    "url": "/library/analysis-frameworks/value-chain-analysis/",
+    "description": "A systematic breakdown of every activity a firm performs to deliver its product or service — identifying where value is created and where cost advantage or differentiation can be won.",
+    "category": "Analysis & Frameworks",
+    "tags": ["value chain", "Porter", "Michael Porter", "primary activities", "support activities", "competitive advantage", "operations", "logistics", "cost advantage", "differentiation"]
+  },
+  {
+    "title": "BCG Matrix & GE/McKinsey Nine-Box",
+    "url": "/library/analysis-frameworks/bcg-matrix/",
+    "description": "Two portfolio analysis tools for allocating investment across business units — the BCG Growth-Share Matrix and the GE/McKinsey Nine-Box.",
+    "category": "Analysis & Frameworks",
+    "tags": ["BCG", "Boston Consulting Group", "growth share matrix", "stars", "cash cows", "dogs", "question marks", "GE McKinsey", "nine box", "portfolio analysis", "Henderson"]
+  },
+  {
+    "title": "Ansoff Matrix",
+    "url": "/library/analysis-frameworks/ansoff-matrix/",
+    "description": "A 2×2 grid mapping four growth strategies — Market Penetration, Market Development, Product Development, and Diversification — against the risk of entering new markets or creating new products.",
+    "category": "Analysis & Frameworks",
+    "tags": ["Ansoff", "growth matrix", "market penetration", "market development", "product development", "diversification", "growth strategy", "Igor Ansoff", "expansion"]
+  },
+  {
+    "title": "McKinsey 7S",
+    "url": "/library/analysis-frameworks/mckinsey-7s/",
+    "description": "A framework for analyzing organizational alignment across seven interdependent elements — Strategy, Structure, Systems, Shared Values, Style, Staff, and Skills.",
+    "category": "Analysis & Frameworks",
+    "tags": ["7S", "McKinsey", "Peters", "Waterman", "organizational alignment", "strategy structure systems", "soft hard elements", "organizational design", "change management", "shared values"]
+  },
+  {
+    "title": "Marketing Mix (4Ps / 7Ps) & Jobs-to-be-Done",
+    "url": "/library/analysis-frameworks/marketing-mix/",
+    "description": "Two complementary tools for understanding how a firm creates and delivers value to customers: the Marketing Mix (4Ps / 7Ps) and Jobs-to-be-Done theory.",
+    "category": "Analysis & Frameworks",
+    "tags": ["4Ps", "7Ps", "marketing mix", "product price place promotion", "jobs to be done", "JTBD", "Christensen", "McCarthy", "customer value", "positioning"]
+  },
+  {
+    "title": "Profit / Profitability Tree",
+    "url": "/library/analysis-frameworks/profit-tree/",
+    "description": "A structured decomposition of profit into its revenue and cost drivers — the starting point for any margin analysis, cost reduction, or revenue improvement engagement.",
+    "category": "Analysis & Frameworks",
+    "tags": ["profit tree", "profitability", "revenue", "cost", "margin", "EBITDA", "issue tree", "driver tree", "financial analysis", "decomposition", "revenue drivers", "cost drivers"]
+  },
+  {
+    "title": "Market Sizing & Estimation",
+    "url": "/library/analysis-frameworks/market-sizing/",
+    "description": "Techniques for estimating the size of a market or the answer to a quantitative question with limited data — using structured decomposition and Fermi estimation.",
+    "category": "Analysis & Frameworks",
+    "tags": ["market sizing", "Fermi", "estimation", "TAM", "SAM", "SOM", "bottom up", "top down", "quantitative", "case interview", "back of envelope"]
+  },
+  {
+    "title": "OKRs",
+    "url": "/library/strategy-planning/okrs/",
+    "description": "A goal-setting framework pairing qualitative Objectives with measurable Key Results — designed to align teams, focus resources, and make progress visible.",
+    "category": "Strategy & Planning",
+    "tags": ["OKRs", "objectives key results", "Andy Grove", "Intel", "John Doerr", "Google", "goal setting", "alignment", "performance", "Measure What Matters"]
+  },
+  {
+    "title": "Balanced Scorecard",
+    "url": "/library/strategy-planning/balanced-scorecard/",
+    "description": "A performance management framework that translates strategy into objectives and metrics across four perspectives — financial, customer, internal processes, and learning & growth.",
+    "category": "Strategy & Planning",
+    "tags": ["balanced scorecard", "Kaplan", "Norton", "Robert Kaplan", "David Norton", "Harvard", "four perspectives", "strategy map", "KPIs", "performance management"]
+  },
+  {
+    "title": "OGSM",
+    "url": "/library/strategy-planning/ogsm/",
+    "description": "A one-page strategy framework connecting Objectives, Goals, Strategies, and Measures — used to align an organization around a clear plan with accountable metrics.",
+    "category": "Strategy & Planning",
+    "tags": ["OGSM", "objectives goals strategies measures", "Procter Gamble", "P&G", "strategic planning", "one page strategy", "alignment", "cascading goals"]
+  },
+  {
+    "title": "Blue Ocean Strategy",
+    "url": "/library/strategy-planning/blue-ocean-strategy/",
+    "description": "A strategic theory arguing that lasting competitive advantage comes not from beating rivals but from creating uncontested market space — making the competition irrelevant.",
+    "category": "Strategy & Planning",
+    "tags": ["blue ocean", "Kim", "Mauborgne", "W. Chan Kim", "Renée Mauborgne", "INSEAD", "value innovation", "strategy canvas", "ERRC", "red ocean", "differentiation"]
+  },
+  {
+    "title": "Three Horizons",
+    "url": "/library/strategy-planning/three-horizons/",
+    "description": "A framework for managing a portfolio of strategic initiatives across three time horizons — defending the core today, building emerging growth, and creating options for the future.",
+    "category": "Strategy & Planning",
+    "tags": ["three horizons", "Baghai", "Coley", "White", "McKinsey", "Alchemy of Growth", "portfolio", "H1 H2 H3", "growth", "innovation", "horizon planning"]
+  },
+  {
+    "title": "Scenario Planning",
+    "url": "/library/strategy-planning/scenario-planning/",
+    "description": "A planning discipline that builds multiple plausible stories about how the future might unfold — not to predict which will occur, but to develop strategies robust across multiple possibilities.",
+    "category": "Strategy & Planning",
+    "tags": ["scenario planning", "Pierre Wack", "Shell", "Peter Schwartz", "Art of the Long View", "uncertainty", "scenarios", "futures", "critical uncertainties", "GBN"]
+  },
+  {
+    "title": "Wardley Mapping",
+    "url": "/library/strategy-planning/wardley-mapping/",
+    "description": "A visual strategy tool that maps the components of a value chain against their stage of evolution — identifying where to invest, where to commoditize, and where competitive advantage lives.",
+    "category": "Strategy & Planning",
+    "tags": ["Wardley map", "Simon Wardley", "Fotango", "evolution axis", "genesis custom product commodity", "value chain", "technology strategy", "competitive positioning"]
+  },
+  {
+    "title": "Business Model Canvas",
+    "url": "/library/strategy-planning/business-model-canvas/",
+    "description": "A one-page visual framework for describing, designing, and analyzing how a business creates, delivers, and captures value — organized across nine building blocks.",
+    "category": "Strategy & Planning",
+    "tags": ["business model canvas", "Osterwalder", "Pigneur", "nine blocks", "value proposition", "customer segments", "revenue streams", "cost structure", "Lean Canvas", "Ash Maurya"]
+  },
+  {
+    "title": "RACI",
+    "url": "/library/execution-change/raci/",
+    "description": "A responsibility assignment matrix that clarifies who is Responsible, Accountable, Consulted, and Informed for each task or decision — eliminating the ambiguity that causes execution to break down.",
+    "category": "Execution & Change",
+    "tags": ["RACI", "responsible accountable consulted informed", "responsibility matrix", "RAM", "project management", "PMI", "ownership", "decision rights", "organizational design"]
+  },
+  {
+    "title": "Kotter's 8 Steps & ADKAR",
+    "url": "/library/execution-change/kotters-8-steps/",
+    "description": "Two complementary change management frameworks — Kotter's 8 Steps at the organizational level and ADKAR at the individual level — for leading change that actually sticks.",
+    "category": "Execution & Change",
+    "tags": ["Kotter", "8 steps", "ADKAR", "change management", "leading change", "Jeff Hiatt", "Prosci", "awareness desire knowledge ability reinforcement", "transformation", "Harvard"]
+  },
+  {
+    "title": "Lean / Value-Stream Mapping & Six Sigma (DMAIC)",
+    "url": "/library/execution-change/lean-six-sigma/",
+    "description": "Two systematic process improvement methodologies — Lean for eliminating waste and accelerating flow, and Six Sigma / DMAIC for reducing variation and defects.",
+    "category": "Execution & Change",
+    "tags": ["Lean", "Six Sigma", "DMAIC", "value stream mapping", "VSM", "Taiichi Ohno", "Toyota", "Motorola", "GE", "Jack Welch", "waste", "muda", "process improvement", "Womack Jones", "Rother Shook", "DOWNTIME"]
+  },
+  {
+    "title": "Prioritization",
+    "url": "/library/execution-change/prioritization/",
+    "description": "Three tools for making defensible decisions about which initiatives to pursue when resources are finite — Impact/Effort Matrix, MoSCoW, and Weighted Scoring.",
+    "category": "Execution & Change",
+    "tags": ["prioritization", "impact effort matrix", "MoSCoW", "must should could wont", "weighted scoring", "Dai Clegg", "DSDM", "Kepner Tregoe", "decision making", "resource allocation", "tradeoffs"]
+  },
+  {
+    "title": "The Pyramid Principle",
+    "url": "/library/synthesis-communication/pyramid-principle/",
+    "description": "A communication framework that structures any argument so the answer comes first, supported by grouped and summarized reasoning — so the reader never has to wait for the point.",
+    "category": "Synthesis & Communication",
+    "tags": ["pyramid principle", "Barbara Minto", "McKinsey", "SCQA", "situation complication question answer", "BLUF", "bottom line up front", "structured communication", "writing", "answer first"]
+  },
+  {
+    "title": "Executive-Summary Discipline",
+    "url": "/library/synthesis-communication/executive-summary/",
+    "description": "The discipline of distilling a complex analysis into a single page or slide that contains only what a senior decision-maker needs to act.",
+    "category": "Synthesis & Communication",
+    "tags": ["executive summary", "one pager", "BLUF", "bottom line up front", "Bezos", "Amazon six pager", "recommendation", "senior communication", "distillation"]
+  },
+  {
+    "title": "Storyboarding the Deck",
+    "url": "/library/synthesis-communication/storyboarding/",
+    "description": "The practice of building a presentation's argumentative structure before any slides are created, ensuring the logic holds as a sequence and each page earns its place.",
+    "category": "Synthesis & Communication",
+    "tags": ["storyboarding", "ghost deck", "horizontal logic", "vertical logic", "McKinsey", "Disney", "presentation structure", "deck", "slides", "narrative"]
+  },
+  {
+    "title": "The \"So What?\" Test",
+    "url": "/library/synthesis-communication/so-what-test/",
+    "description": "A synthesis discipline that distinguishes observation from insight by demanding that every finding answer the question 'so what?' — forcing the analyst to complete the logic chain.",
+    "category": "Synthesis & Communication",
+    "tags": ["so what", "insight", "observation", "synthesis", "McKinsey", "Rasiel", "Friga", "data observation insight", "pyramid principle", "analytical thinking", "implication"]
+  },
+  {
+    "title": "Client Brief Template",
+    "url": "/library/session-kit/client-brief-template/",
+    "description": "A fill-in form for the Client to present a clean, shared problem statement before the Consulting Team begins work.",
+    "category": "Session Kit",
+    "tags": ["client brief", "template", "problem statement", "session prep", "fill in form", "situation", "core question", "brief"]
+  },
+  {
+    "title": "Role Cards",
+    "url": "/library/session-kit/role-cards/",
+    "description": "One card for each role — Client, Lead Consultant, Analyst, Skeptic, Scribe — with responsibilities and watch-outs.",
+    "category": "Session Kit",
+    "tags": ["role cards", "roles", "client", "lead consultant", "analyst", "skeptic", "scribe", "responsibilities", "session structure"]
+  },
+  {
+    "title": "Starter Cases",
+    "url": "/library/session-kit/starter-cases/",
+    "description": "Five ready-to-run practice cases across industries and problem types, for when no one has a live problem to bring.",
+    "category": "Session Kit",
+    "tags": ["cases", "practice cases", "starter cases", "healthcare", "SaaS", "consumer goods", "professional services", "manufacturing", "case practice"]
+  },
+  {
+    "title": "Timekeeper / Agenda Card",
+    "url": "/library/session-kit/timekeeper-agenda/",
+    "description": "The 90-minute session structure broken into beats, plus the 15-minute debrief.",
+    "category": "Session Kit",
+    "tags": ["agenda", "timekeeper", "90 minutes", "session structure", "timing", "schedule", "debrief", "beats", "scribe"]
+  },
+  {
+    "title": "Debrief & \"Would I Hire You?\" Scorecard",
+    "url": "/library/session-kit/debrief-scorecard/",
+    "description": "A light rubric across structure, insight, communication, client orientation, and teaming for the 15-minute debrief.",
+    "category": "Session Kit",
+    "tags": ["debrief", "scorecard", "would I hire", "rubric", "feedback", "structure insight communication teaming", "session review"]
+  },
+  {
+    "title": "Facilitator's Guide",
+    "url": "/library/session-kit/facilitators-guide/",
+    "description": "How to run a great Consulting Club session: room setup, opening, managing the work phase, the recommendation, the debrief, common failure modes, and closing well.",
+    "category": "Session Kit",
+    "tags": ["facilitator", "facilitating", "running a session", "failure modes", "debrief", "opening", "closing", "host", "facilitation guide"]
+  }
+]

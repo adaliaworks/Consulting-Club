@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Search — Consulting Club Library</title>
+  <meta name="description" content="Search frameworks, tools, authors, and concepts across the Consulting Club library.">
+  <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main class="search-page">
+
+    <div class="search-hero">
+      <div class="container">
+        <h1>Search the Library</h1>
+        <form id="search-form" role="search" autocomplete="off">
+          <div class="search-box">
+            <input
+              id="search-input"
+              type="search"
+              placeholder="Framework, author, topic&hellip;"
+              aria-label="Search the library"
+              spellcheck="false"
+            >
+            <button type="submit" class="search-btn" aria-label="Search">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"/>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+              </svg>
+            </button>
+          </div>
+        </form>
+        <p id="search-count" class="search-count" aria-live="polite"></p>
+      </div>
+    </div>
+
+    <div class="container search-results-container">
+      <div id="search-results"></div>
+    </div>
+
+  </main>
+
+  <div id="site-footer"></div>
+  <script src="/assets/nav.js"></script>
+  <script src="/assets/search.js"></script>
+</body>
+</html>

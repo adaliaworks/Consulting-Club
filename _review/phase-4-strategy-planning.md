@@ -51,9 +51,9 @@ OKRs come up most often when a client's problem is organizational: "We're not ex
 - Drucker, Peter F. *The Practice of Management* (1954, Harper & Row) — the MBO precursor
 
 ### Recommended Books
-- *Measure What Matters* — John Doerr — `https://www.amazon.com/s?k=measure+what+matters+john+doerr&tag=tmiller0e-20`
-- *High Output Management* — Andy Grove — `https://www.amazon.com/s?k=high+output+management+andy+grove&tag=tmiller0e-20`
-- *Radical Focus* — Christina Wodtke — `https://www.amazon.com/s?k=radical+focus+christina+wodtke&tag=tmiller0e-20`
+- *Measure What Matters* — John Doerr — `https://www.amazon.com/s?k=measure+what+matters+john+doerr&tag=adaliaworks-20`
+- *High Output Management* — Andy Grove — `https://www.amazon.com/s?k=high+output+management+andy+grove&tag=adaliaworks-20`
+- *Radical Focus* — Christina Wodtke — `https://www.amazon.com/s?k=radical+focus+christina+wodtke&tag=adaliaworks-20`
 
 ---
 
@@ -104,9 +104,9 @@ The Balanced Scorecard is most useful in sessions where the client's problem is 
 - Kaplan, Robert S. and Norton, David P. "Having Trouble with Your Strategy? Then Map It." *Harvard Business Review* (September–October 2000)
 
 ### Recommended Books
-- *The Balanced Scorecard* — Kaplan & Norton — `https://www.amazon.com/s?k=the+balanced+scorecard+kaplan+norton&tag=tmiller0e-20`
-- *Strategy Maps* — Kaplan & Norton — `https://www.amazon.com/s?k=strategy+maps+kaplan+norton&tag=tmiller0e-20`
-- *Execution* — Larry Bossidy & Ram Charan — `https://www.amazon.com/s?k=execution+bossidy+charan&tag=tmiller0e-20`
+- *The Balanced Scorecard* — Kaplan & Norton — `https://www.amazon.com/s?k=the+balanced+scorecard+kaplan+norton&tag=adaliaworks-20`
+- *Strategy Maps* — Kaplan & Norton — `https://www.amazon.com/s?k=strategy+maps+kaplan+norton&tag=adaliaworks-20`
+- *Execution* — Larry Bossidy & Ram Charan — `https://www.amazon.com/s?k=execution+bossidy+charan&tag=adaliaworks-20`
 
 ---
 
@@ -157,9 +157,9 @@ The Scribe should draft the OGSM structure on the board early in the team work p
 - The OGSM format is widely practiced at P&G and its alumni network; the best descriptions appear in practitioner articles and marketing strategy textbooks
 
 ### Recommended Books
-- *OGSM: Your One-Page Business Strategy* — Annmarie Hanlon — `https://www.amazon.com/s?k=ogsm+your+one+page+business+strategy+hanlon&tag=tmiller0e-20`
-- *Good Strategy Bad Strategy* — Richard Rumelt — `https://www.amazon.com/s?k=good+strategy+bad+strategy+rumelt&tag=tmiller0e-20`
-- *Playing to Win* — A.G. Lafley & Roger Martin — `https://www.amazon.com/s?k=playing+to+win+lafley+roger+martin&tag=tmiller0e-20`
+- *OGSM: Your One-Page Business Strategy* — Annmarie Hanlon — `https://www.amazon.com/s?k=ogsm+your+one+page+business+strategy+hanlon&tag=adaliaworks-20`
+- *Good Strategy Bad Strategy* — Richard Rumelt — `https://www.amazon.com/s?k=good+strategy+bad+strategy+rumelt&tag=adaliaworks-20`
+- *Playing to Win* — A.G. Lafley & Roger Martin — `https://www.amazon.com/s?k=playing+to+win+lafley+roger+martin&tag=adaliaworks-20`
 
 ---
 
@@ -212,9 +212,9 @@ Blue Ocean is best used as a generative lens, not an analytical one — it opens
 - Kim, W. Chan and Mauborgne, Renée. *Blue Ocean Shift* (2017, Hachette Books)
 
 ### Recommended Books
-- *Blue Ocean Strategy* — Kim & Mauborgne — `https://www.amazon.com/s?k=blue+ocean+strategy+kim+mauborgne&tag=tmiller0e-20`
-- *Blue Ocean Shift* — Kim & Mauborgne — `https://www.amazon.com/s?k=blue+ocean+shift+kim+mauborgne&tag=tmiller0e-20`
-- *Good Strategy Bad Strategy* — Richard Rumelt — `https://www.amazon.com/s?k=good+strategy+bad+strategy+rumelt&tag=tmiller0e-20`
+- *Blue Ocean Strategy* — Kim & Mauborgne — `https://www.amazon.com/s?k=blue+ocean+strategy+kim+mauborgne&tag=adaliaworks-20`
+- *Blue Ocean Shift* — Kim & Mauborgne — `https://www.amazon.com/s?k=blue+ocean+shift+kim+mauborgne&tag=adaliaworks-20`
+- *Good Strategy Bad Strategy* — Richard Rumelt — `https://www.amazon.com/s?k=good+strategy+bad+strategy+rumelt&tag=adaliaworks-20`
 
 ---
 
@@ -258,9 +258,9 @@ Three Horizons surfaces most naturally in sessions about growth strategy, innova
 - Christensen, Clayton M. *The Innovator's Dilemma* (1997, Harvard Business School Press) — the foundational work on why successful companies fail to invest in disruptive horizons
 
 ### Recommended Books
-- *The Alchemy of Growth* — Baghai, Coley & White — `https://www.amazon.com/s?k=the+alchemy+of+growth+baghai&tag=tmiller0e-20`
-- *The Innovator's Dilemma* — Clayton Christensen — `https://www.amazon.com/s?k=the+innovators+dilemma+christensen&tag=tmiller0e-20`
-- *Dual Transformation* — Gilbert, Eyring & Foster — `https://www.amazon.com/s?k=dual+transformation+gilbert+eyring&tag=tmiller0e-20`
+- *The Alchemy of Growth* — Baghai, Coley & White — `https://www.amazon.com/s?k=the+alchemy+of+growth+baghai&tag=adaliaworks-20`
+- *The Innovator's Dilemma* — Clayton Christensen — `https://www.amazon.com/s?k=the+innovators+dilemma+christensen&tag=adaliaworks-20`
+- *Dual Transformation* — Gilbert, Eyring & Foster — `https://www.amazon.com/s?k=dual+transformation+gilbert+eyring&tag=adaliaworks-20`
 
 ---
 
@@ -308,9 +308,9 @@ Scenario planning in a 90-minute session is necessarily abbreviated — but even
 - van der Heijden, Kees. *Scenarios: The Art of Strategic Conversation* (1996, Wiley)
 
 ### Recommended Books
-- *The Art of the Long View* — Peter Schwartz — `https://www.amazon.com/s?k=the+art+of+the+long+view+peter+schwartz&tag=tmiller0e-20`
-- *Scenarios: The Art of Strategic Conversation* — Kees van der Heijden — `https://www.amazon.com/s?k=scenarios+the+art+of+strategic+conversation+van+der+heijden&tag=tmiller0e-20`
-- *The Inevitable* — Kevin Kelly — `https://www.amazon.com/s?k=the+inevitable+kevin+kelly&tag=tmiller0e-20`
+- *The Art of the Long View* — Peter Schwartz — `https://www.amazon.com/s?k=the+art+of+the+long+view+peter+schwartz&tag=adaliaworks-20`
+- *Scenarios: The Art of Strategic Conversation* — Kees van der Heijden — `https://www.amazon.com/s?k=scenarios+the+art+of+strategic+conversation+van+der+heijden&tag=adaliaworks-20`
+- *The Inevitable* — Kevin Kelly — `https://www.amazon.com/s?k=the+inevitable+kevin+kelly&tag=adaliaworks-20`
 
 ---
 
@@ -362,9 +362,9 @@ The Skeptic should push on any component described as a competitive differentiat
 - Wardley's blog posts and talks are the primary source material; many are freely available online
 
 ### Recommended Books
-- *Wardley Maps* — Simon Wardley — `https://www.amazon.com/s?k=wardley+maps+simon+wardley&tag=tmiller0e-20`
-- *Crossing the Chasm* — Geoffrey Moore — `https://www.amazon.com/s?k=crossing+the+chasm+geoffrey+moore&tag=tmiller0e-20`
-- *The Innovator's Dilemma* — Clayton Christensen — `https://www.amazon.com/s?k=the+innovators+dilemma+christensen&tag=tmiller0e-20`
+- *Wardley Maps* — Simon Wardley — `https://www.amazon.com/s?k=wardley+maps+simon+wardley&tag=adaliaworks-20`
+- *Crossing the Chasm* — Geoffrey Moore — `https://www.amazon.com/s?k=crossing+the+chasm+geoffrey+moore&tag=adaliaworks-20`
+- *The Innovator's Dilemma* — Clayton Christensen — `https://www.amazon.com/s?k=the+innovators+dilemma+christensen&tag=adaliaworks-20`
 
 ---
 
@@ -427,9 +427,9 @@ For competitive analysis: draw the incumbent's Canvas and the disruptor's Canvas
 - Osterwalder, Alexander; Pigneur, Yves; Bernarda, Greg; Smith, Alan. *Value Proposition Design* (2014, Wiley) — the companion volume focusing specifically on the Value Proposition block
 
 ### Recommended Books
-- *Business Model Generation* — Osterwalder & Pigneur — `https://www.amazon.com/s?k=business+model+generation+osterwalder&tag=tmiller0e-20`
-- *Value Proposition Design* — Osterwalder et al. — `https://www.amazon.com/s?k=value+proposition+design+osterwalder&tag=tmiller0e-20`
-- *The Lean Startup* — Eric Ries — `https://www.amazon.com/s?k=the+lean+startup+eric+ries&tag=tmiller0e-20`
+- *Business Model Generation* — Osterwalder & Pigneur — `https://www.amazon.com/s?k=business+model+generation+osterwalder&tag=adaliaworks-20`
+- *Value Proposition Design* — Osterwalder et al. — `https://www.amazon.com/s?k=value+proposition+design+osterwalder&tag=adaliaworks-20`
+- *The Lean Startup* — Eric Ries — `https://www.amazon.com/s?k=the+lean+startup+eric+ries&tag=adaliaworks-20`
 
 ---
 

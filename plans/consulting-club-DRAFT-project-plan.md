@@ -84,7 +84,7 @@ A plausible **starting stack**: a free or low-cost local chapter to prove the fo
 
 The goal is a library that's **exercise-ready**, not encyclopedic — every entry should be runnable in a 90-minute session, not just read about. A good organizing spine is the **arc of an engagement**, so members learn frameworks in the order they'd actually use them, plus a kit of reusable session artifacts.
 
-**Please think long and hard and build out this complete library using the taxonomy you suggest: Content Library (page) with Categories (individual pages) "Scoping & Diagnosis", "Analysis & Frameworks" etc., each category has sub-pages for content, and each content page has a thorough overview with citations/references/links to source materials. Links to books or other resources on Amazon, use my Amazon affiliate code: tmiller0e-20**
+**Please think long and hard and build out this complete library using the taxonomy you suggest: Content Library (page) with Categories (individual pages) "Scoping & Diagnosis", "Analysis & Frameworks" etc., each category has sub-pages for content, and each content page has a thorough overview with citations/references/links to source materials. Links to books or other resources on Amazon, use my Amazon affiliate code: adaliaworks-20**
 
 ### 3.1 Phase 1 — Scoping & Diagnosis
 *Getting to the real problem before solving the wrong one.*

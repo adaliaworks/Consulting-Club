@@ -53,9 +53,9 @@ In a 90-minute session, this five-minute discipline saves thirty minutes of anal
 - Gause, Donald C. and Weinberg, Gerald M. *Are Your Lights On? How to Figure Out What the Problem Really Is* (1990) — a short, irreverent classic on exactly this problem
 
 ### Recommended Books
-- *The Design of Business* — Roger Martin — `https://www.amazon.com/s?k=the+design+of+business+roger+martin&tag=tmiller0e-20`
-- *Are Your Lights On?* — Gause & Weinberg — `https://www.amazon.com/s?k=are+your+lights+on+gause+weinberg&tag=tmiller0e-20`
-- *Bulletproof Problem Solving* — Charles Conn & Robert McLean — `https://www.amazon.com/s?k=bulletproof+problem+solving+conn+mclean&tag=tmiller0e-20`
+- *The Design of Business* — Roger Martin — `https://www.amazon.com/s?k=the+design+of+business+roger+martin&tag=adaliaworks-20`
+- *Are Your Lights On?* — Gause & Weinberg — `https://www.amazon.com/s?k=are+your+lights+on+gause+weinberg&tag=adaliaworks-20`
+- *Bulletproof Problem Solving* — Charles Conn & Robert McLean — `https://www.amazon.com/s?k=bulletproof+problem+solving+conn+mclean&tag=adaliaworks-20`
 
 ---
 
@@ -113,9 +113,9 @@ This turns the Double Diamond from an abstract model into a live meeting agenda.
 - Design Council. *The Double Diamond: A Universally Accepted Depiction of the Design Process* (updated 2019) — available at designcouncil.org.uk
 
 ### Recommended Books
-- *The Design Thinking Playbook* — Lewrick, Link & Leifer — `https://www.amazon.com/s?k=design+thinking+playbook+lewrick&tag=tmiller0e-20`
-- *Creative Confidence* — Tom Kelley & David Kelley — `https://www.amazon.com/s?k=creative+confidence+tom+kelley&tag=tmiller0e-20`
-- *Sprint* — Jake Knapp — `https://www.amazon.com/s?k=sprint+jake+knapp&tag=tmiller0e-20`
+- *The Design Thinking Playbook* — Lewrick, Link & Leifer — `https://www.amazon.com/s?k=design+thinking+playbook+lewrick&tag=adaliaworks-20`
+- *Creative Confidence* — Tom Kelley & David Kelley — `https://www.amazon.com/s?k=creative+confidence+tom+kelley&tag=adaliaworks-20`
+- *Sprint* — Jake Knapp — `https://www.amazon.com/s?k=sprint+jake+knapp&tag=adaliaworks-20`
 
 ---
 
@@ -170,9 +170,9 @@ Posting the tree visibly throughout the session keeps the team from drifting. It
 - Conn, Charles and McLean, Robert. *Bulletproof Problem Solving* (2019, Wiley) — the best modern treatment of issue trees and structured problem solving
 
 ### Recommended Books
-- *The Pyramid Principle* — Barbara Minto — `https://www.amazon.com/s?k=pyramid+principle+barbara+minto&tag=tmiller0e-20`
-- *The McKinsey Way* — Ethan Rasiel — `https://www.amazon.com/s?k=the+mckinsey+way+rasiel&tag=tmiller0e-20`
-- *Bulletproof Problem Solving* — Conn & McLean — `https://www.amazon.com/s?k=bulletproof+problem+solving+conn+mclean&tag=tmiller0e-20`
+- *The Pyramid Principle* — Barbara Minto — `https://www.amazon.com/s?k=pyramid+principle+barbara+minto&tag=adaliaworks-20`
+- *The McKinsey Way* — Ethan Rasiel — `https://www.amazon.com/s?k=the+mckinsey+way+rasiel&tag=adaliaworks-20`
+- *Bulletproof Problem Solving* — Conn & McLean — `https://www.amazon.com/s?k=bulletproof+problem+solving+conn+mclean&tag=adaliaworks-20`
 
 ---
 
@@ -218,9 +218,9 @@ The Skeptic's role in a hypothesis-driven session is to play the null hypothesis
 - Kahneman, Daniel. *Thinking, Fast and Slow* (2011, Farrar, Straus and Giroux) — for understanding the cognitive biases that make hypothesis testing hard
 
 ### Recommended Books
-- *The McKinsey Way* — Ethan Rasiel — `https://www.amazon.com/s?k=the+mckinsey+way+rasiel&tag=tmiller0e-20`
-- *Bulletproof Problem Solving* — Conn & McLean — `https://www.amazon.com/s?k=bulletproof+problem+solving+conn+mclean&tag=tmiller0e-20`
-- *Thinking, Fast and Slow* — Daniel Kahneman — `https://www.amazon.com/s?k=thinking+fast+and+slow+kahneman&tag=tmiller0e-20`
+- *The McKinsey Way* — Ethan Rasiel — `https://www.amazon.com/s?k=the+mckinsey+way+rasiel&tag=adaliaworks-20`
+- *Bulletproof Problem Solving* — Conn & McLean — `https://www.amazon.com/s?k=bulletproof+problem+solving+conn+mclean&tag=adaliaworks-20`
+- *Thinking, Fast and Slow* — Daniel Kahneman — `https://www.amazon.com/s?k=thinking+fast+and+slow+kahneman&tag=adaliaworks-20`
 
 ---
 
@@ -273,9 +273,9 @@ The best Consulting Club recommendations include a stakeholder dimension: "Here'
 - Mendelow, Aubrey. "Environmental Scanning: The Impact of the Stakeholder Concept" (1981, ICIS proceedings)
 
 ### Recommended Books
-- *Strategic Management: A Stakeholder Approach* — R. Edward Freeman — `https://www.amazon.com/s?k=strategic+management+stakeholder+approach+freeman&tag=tmiller0e-20`
-- *Influence Without Authority* — Cohen & Bradford — `https://www.amazon.com/s?k=influence+without+authority+cohen+bradford&tag=tmiller0e-20`
-- *The Trusted Advisor* — Maister, Green & Galford — `https://www.amazon.com/s?k=the+trusted+advisor+maister&tag=tmiller0e-20`
+- *Strategic Management: A Stakeholder Approach* — R. Edward Freeman — `https://www.amazon.com/s?k=strategic+management+stakeholder+approach+freeman&tag=adaliaworks-20`
+- *Influence Without Authority* — Cohen & Bradford — `https://www.amazon.com/s?k=influence+without+authority+cohen+bradford&tag=adaliaworks-20`
+- *The Trusted Advisor* — Maister, Green & Galford — `https://www.amazon.com/s?k=the+trusted+advisor+maister&tag=adaliaworks-20`
 
 ---
 
@@ -335,9 +335,9 @@ The Skeptic should challenge whether the team has reached a true root cause or i
 - Liker, Jeffrey K. *The Toyota Way* (2004, McGraw-Hill) — accessible account of the Toyota Production System including the 5 Whys
 
 ### Recommended Books
-- *Toyota Production System* — Taiichi Ohno — `https://www.amazon.com/s?k=toyota+production+system+taiichi+ohno&tag=tmiller0e-20`
-- *The Toyota Way* — Jeffrey Liker — `https://www.amazon.com/s?k=the+toyota+way+jeffrey+liker&tag=tmiller0e-20`
-- *The Lean Startup* — Eric Ries — `https://www.amazon.com/s?k=the+lean+startup+eric+ries&tag=tmiller0e-20`
+- *Toyota Production System* — Taiichi Ohno — `https://www.amazon.com/s?k=toyota+production+system+taiichi+ohno&tag=adaliaworks-20`
+- *The Toyota Way* — Jeffrey Liker — `https://www.amazon.com/s?k=the+toyota+way+jeffrey+liker&tag=adaliaworks-20`
+- *The Lean Startup* — Eric Ries — `https://www.amazon.com/s?k=the+lean+startup+eric+ries&tag=adaliaworks-20`
 
 ---
 
@@ -394,9 +394,9 @@ This discipline is one of the clearest differentiators between teams that delive
 - Project Management Institute. *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* — Scope Management chapter
 
 ### Recommended Books
-- *Flawless Consulting* — Peter Block — `https://www.amazon.com/s?k=flawless+consulting+peter+block&tag=tmiller0e-20`
-- *The McKinsey Engagement* — Paul Friga — `https://www.amazon.com/s?k=the+mckinsey+engagement+paul+friga&tag=tmiller0e-20`
-- *The Trusted Advisor* — Maister, Green & Galford — `https://www.amazon.com/s?k=the+trusted+advisor+maister+green+galford&tag=tmiller0e-20`
+- *Flawless Consulting* — Peter Block — `https://www.amazon.com/s?k=flawless+consulting+peter+block&tag=adaliaworks-20`
+- *The McKinsey Engagement* — Paul Friga — `https://www.amazon.com/s?k=the+mckinsey+engagement+paul+friga&tag=adaliaworks-20`
+- *The Trusted Advisor* — Maister, Green & Galford — `https://www.amazon.com/s?k=the+trusted+advisor+maister+green+galford&tag=adaliaworks-20`
 
 ---
 

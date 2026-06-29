@@ -52,9 +52,9 @@ Run the SWOT in the first 15 minutes of team work as a fast shared orientation �
 - Weihrich, Heinz. "The TOWS Matrix — A Tool for Situational Analysis." *Long Range Planning*, Vol. 15, No. 2 (1982) — introduces the cross-quadrant analysis that SWOT alone lacks
 
 ### Recommended Books
-- *Competitive Strategy* — Michael E. Porter — `https://www.amazon.com/s?k=competitive+strategy+michael+porter&tag=tmiller0e-20`
-- *Strategy Safari* — Mintzberg, Ahlstrand & Lampel — `https://www.amazon.com/s?k=strategy+safari+mintzberg&tag=tmiller0e-20`
-- *Good Strategy Bad Strategy* — Richard Rumelt — `https://www.amazon.com/s?k=good+strategy+bad+strategy+rumelt&tag=tmiller0e-20`
+- *Competitive Strategy* — Michael E. Porter — `https://www.amazon.com/s?k=competitive+strategy+michael+porter&tag=adaliaworks-20`
+- *Strategy Safari* — Mintzberg, Ahlstrand & Lampel — `https://www.amazon.com/s?k=strategy+safari+mintzberg&tag=adaliaworks-20`
+- *Good Strategy Bad Strategy* — Richard Rumelt — `https://www.amazon.com/s?k=good+strategy+bad+strategy+rumelt&tag=adaliaworks-20`
 
 ---
 
@@ -104,9 +104,9 @@ Assign one force to each team member for a focused 10-minute analysis, then reco
 - Porter, Michael E. "The Five Competitive Forces That Shape Strategy." *Harvard Business Review* (January 2008) — Porter's own updated treatment of the framework
 
 ### Recommended Books
-- *Competitive Strategy* — Michael E. Porter — `https://www.amazon.com/s?k=competitive+strategy+porter&tag=tmiller0e-20`
-- *Understanding Michael Porter* — Joan Magretta — `https://www.amazon.com/s?k=understanding+michael+porter+magretta&tag=tmiller0e-20`
-- *Competitive Advantage* — Michael E. Porter — `https://www.amazon.com/s?k=competitive+advantage+michael+porter&tag=tmiller0e-20`
+- *Competitive Strategy* — Michael E. Porter — `https://www.amazon.com/s?k=competitive+strategy+porter&tag=adaliaworks-20`
+- *Understanding Michael Porter* — Joan Magretta — `https://www.amazon.com/s?k=understanding+michael+porter+magretta&tag=adaliaworks-20`
+- *Competitive Advantage* — Michael E. Porter — `https://www.amazon.com/s?k=competitive+advantage+michael+porter&tag=adaliaworks-20`
 
 ---
 
@@ -154,9 +154,9 @@ Divide the six categories among team members — one per person if the team is s
 - Johnson, Gerry; Scholes, Kevan; Whittington, Richard. *Exploring Corporate Strategy* (various editions, Pearson) — a leading strategy textbook that treats PESTEL as a standard tool
 
 ### Recommended Books
-- *Exploring Corporate Strategy* — Johnson, Scholes & Whittington — `https://www.amazon.com/s?k=exploring+corporate+strategy+johnson+scholes&tag=tmiller0e-20`
-- *The Age of Uncertainty* — John Kenneth Galbraith — `https://www.amazon.com/s?k=the+age+of+uncertainty+galbraith&tag=tmiller0e-20`
-- *Competitive Strategy* — Michael E. Porter — `https://www.amazon.com/s?k=competitive+strategy+porter&tag=tmiller0e-20`
+- *Exploring Corporate Strategy* — Johnson, Scholes & Whittington — `https://www.amazon.com/s?k=exploring+corporate+strategy+johnson+scholes&tag=adaliaworks-20`
+- *The Age of Uncertainty* — John Kenneth Galbraith — `https://www.amazon.com/s?k=the+age+of+uncertainty+galbraith&tag=adaliaworks-20`
+- *Competitive Strategy* — Michael E. Porter — `https://www.amazon.com/s?k=competitive+strategy+porter&tag=adaliaworks-20`
 
 ---
 
@@ -212,9 +212,9 @@ Map the client's value chain on the whiteboard during the first 20 minutes — t
 - Porter, Michael E. *Competitive Advantage: Creating and Sustaining Superior Performance* (1985, Free Press) — the original source
 
 ### Recommended Books
-- *Competitive Advantage* — Michael E. Porter — `https://www.amazon.com/s?k=competitive+advantage+michael+porter&tag=tmiller0e-20`
-- *The Value Chain* is covered in depth in most Porter-focused strategy texts; *Understanding Michael Porter* — Joan Magretta — `https://www.amazon.com/s?k=understanding+michael+porter+magretta&tag=tmiller0e-20`
-- *Competitive Strategy* — Michael E. Porter — `https://www.amazon.com/s?k=competitive+strategy+porter&tag=tmiller0e-20`
+- *Competitive Advantage* — Michael E. Porter — `https://www.amazon.com/s?k=competitive+advantage+michael+porter&tag=adaliaworks-20`
+- *The Value Chain* is covered in depth in most Porter-focused strategy texts; *Understanding Michael Porter* — Joan Magretta — `https://www.amazon.com/s?k=understanding+michael+porter+magretta&tag=adaliaworks-20`
+- *Competitive Strategy* — Michael E. Porter — `https://www.amazon.com/s?k=competitive+strategy+porter&tag=adaliaworks-20`
 
 ---
 
@@ -276,9 +276,9 @@ Assign team members to score the client's business units on the relevant dimensi
 - McKinsey & Company. "Enduring Ideas: The GE–McKinsey Nine-Box Matrix." *McKinsey Quarterly* (2008) — available at mckinsey.com
 
 ### Recommended Books
-- *Perspectives on Experience* — Boston Consulting Group — `https://www.amazon.com/s?k=perspectives+on+experience+boston+consulting+group&tag=tmiller0e-20`
-- *The Lords of Strategy* — Walter Kiechel — `https://www.amazon.com/s?k=lords+of+strategy+walter+kiechel&tag=tmiller0e-20`
-- *Playing to Win* — A.G. Lafley & Roger Martin — `https://www.amazon.com/s?k=playing+to+win+lafley+roger+martin&tag=tmiller0e-20`
+- *Perspectives on Experience* — Boston Consulting Group — `https://www.amazon.com/s?k=perspectives+on+experience+boston+consulting+group&tag=adaliaworks-20`
+- *The Lords of Strategy* — Walter Kiechel — `https://www.amazon.com/s?k=lords+of+strategy+walter+kiechel&tag=adaliaworks-20`
+- *Playing to Win* — A.G. Lafley & Roger Martin — `https://www.amazon.com/s?k=playing+to+win+lafley+roger+martin&tag=adaliaworks-20`
 
 ---
 
@@ -323,9 +323,9 @@ Plotting the client's growth options on the Ansoff Matrix takes 10 minutes but c
 - Ansoff, H. Igor. *Corporate Strategy: An Analytic Approach to Business Policy for Growth and Expansion* (1965, McGraw-Hill)
 
 ### Recommended Books
-- *Corporate Strategy* — H. Igor Ansoff — `https://www.amazon.com/s?k=corporate+strategy+igor+ansoff&tag=tmiller0e-20`
-- *Playing to Win* — A.G. Lafley & Roger Martin — `https://www.amazon.com/s?k=playing+to+win+lafley+roger+martin&tag=tmiller0e-20`
-- *The Innovator's Dilemma* — Clayton Christensen — `https://www.amazon.com/s?k=the+innovators+dilemma+christensen&tag=tmiller0e-20`
+- *Corporate Strategy* — H. Igor Ansoff — `https://www.amazon.com/s?k=corporate+strategy+igor+ansoff&tag=adaliaworks-20`
+- *Playing to Win* — A.G. Lafley & Roger Martin — `https://www.amazon.com/s?k=playing+to+win+lafley+roger+martin&tag=adaliaworks-20`
+- *The Innovator's Dilemma* — Clayton Christensen — `https://www.amazon.com/s?k=the+innovators+dilemma+christensen&tag=adaliaworks-20`
 
 ---
 
@@ -378,9 +378,9 @@ Use 7S when the client's problem has an organizational or people dimension — w
 - Pascale, Richard T. and Athos, Anthony G. *The Art of Japanese Management: Applications for American Executives* (1981, Simon & Schuster)
 
 ### Recommended Books
-- *In Search of Excellence* — Peters & Waterman — `https://www.amazon.com/s?k=in+search+of+excellence+peters+waterman&tag=tmiller0e-20`
-- *The Art of Japanese Management* — Pascale & Athos — `https://www.amazon.com/s?k=the+art+of+japanese+management+pascale&tag=tmiller0e-20`
-- *Beyond the Matrix* (any good organizational design text) — `https://www.amazon.com/s?k=organizational+design+galbraith&tag=tmiller0e-20`
+- *In Search of Excellence* — Peters & Waterman — `https://www.amazon.com/s?k=in+search+of+excellence+peters+waterman&tag=adaliaworks-20`
+- *The Art of Japanese Management* — Pascale & Athos — `https://www.amazon.com/s?k=the+art+of+japanese+management+pascale&tag=adaliaworks-20`
+- *Beyond the Matrix* (any good organizational design text) — `https://www.amazon.com/s?k=organizational+design+galbraith&tag=adaliaworks-20`
 
 ---
 
@@ -432,9 +432,9 @@ Use the Marketing Mix for a rapid audit of the client's current go-to-market: do
 - Christensen, Clayton M.; Hall, Taddy; Dillon, Karen; Duncan, David S. *Competing Against Luck: The Story of Innovation and Strategy* (2016, HarperCollins)
 
 ### Recommended Books
-- *Competing Against Luck* — Clayton Christensen et al. — `https://www.amazon.com/s?k=competing+against+luck+christensen&tag=tmiller0e-20`
-- *Marketing Management* — Philip Kotler & Kevin Lane Keller — `https://www.amazon.com/s?k=marketing+management+kotler+keller&tag=tmiller0e-20`
-- *Continuous Discovery Habits* — Teresa Torres — `https://www.amazon.com/s?k=continuous+discovery+habits+teresa+torres&tag=tmiller0e-20`
+- *Competing Against Luck* — Clayton Christensen et al. — `https://www.amazon.com/s?k=competing+against+luck+christensen&tag=adaliaworks-20`
+- *Marketing Management* — Philip Kotler & Kevin Lane Keller — `https://www.amazon.com/s?k=marketing+management+kotler+keller&tag=adaliaworks-20`
+- *Continuous Discovery Habits* — Teresa Torres — `https://www.amazon.com/s?k=continuous+discovery+habits+teresa+torres&tag=adaliaworks-20`
 
 ---
 
@@ -491,9 +491,9 @@ The "Would I hire these people?" test in profitability cases often comes down to
 - Conn, Charles and McLean, Robert. *Bulletproof Problem Solving* (2019, Wiley)
 
 ### Recommended Books
-- *The McKinsey Way* — Ethan Rasiel — `https://www.amazon.com/s?k=the+mckinsey+way+rasiel&tag=tmiller0e-20`
-- *Bulletproof Problem Solving* — Conn & McLean — `https://www.amazon.com/s?k=bulletproof+problem+solving+conn+mclean&tag=tmiller0e-20`
-- *Financial Intelligence* — Karen Berman & Joe Knight — `https://www.amazon.com/s?k=financial+intelligence+berman+knight&tag=tmiller0e-20`
+- *The McKinsey Way* — Ethan Rasiel — `https://www.amazon.com/s?k=the+mckinsey+way+rasiel&tag=adaliaworks-20`
+- *Bulletproof Problem Solving* — Conn & McLean — `https://www.amazon.com/s?k=bulletproof+problem+solving+conn+mclean&tag=adaliaworks-20`
+- *Financial Intelligence* — Karen Berman & Joe Knight — `https://www.amazon.com/s?k=financial+intelligence+berman+knight&tag=adaliaworks-20`
 
 ---
 
@@ -545,9 +545,9 @@ At the debrief, evaluate whether the team's estimate was structured (can you tra
 - Conn, Charles and McLean, Robert. *Bulletproof Problem Solving* (2019, Wiley) — includes market sizing in the broader problem-solving framework
 
 ### Recommended Books
-- *Guesstimation* — Weinstein & Adam — `https://www.amazon.com/s?k=guesstimation+weinstein+adam&tag=tmiller0e-20`
-- *Bulletproof Problem Solving* — Conn & McLean — `https://www.amazon.com/s?k=bulletproof+problem+solving+conn+mclean&tag=tmiller0e-20`
-- *Case Interview Secrets* — Victor Cheng — `https://www.amazon.com/s?k=case+interview+secrets+victor+cheng&tag=tmiller0e-20`
+- *Guesstimation* — Weinstein & Adam — `https://www.amazon.com/s?k=guesstimation+weinstein+adam&tag=adaliaworks-20`
+- *Bulletproof Problem Solving* — Conn & McLean — `https://www.amazon.com/s?k=bulletproof+problem+solving+conn+mclean&tag=adaliaworks-20`
+- *Case Interview Secrets* — Victor Cheng — `https://www.amazon.com/s?k=case+interview+secrets+victor+cheng&tag=adaliaworks-20`
 
 ---
 

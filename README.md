@@ -28,7 +28,7 @@ Already configured. The script in `partials/footer.html` points to `https://cons
 
 ### Amazon affiliate tag
 
-Book links use tagged Amazon search URLs with the tag `tmiller0e-20`. This tag is already embedded in every book link across the library. No changes needed unless you want to update the tag — if so, find-and-replace `tmiller0e-20` across all HTML files.
+Book links use tagged Amazon search URLs with the tag `adaliaworks-20`. This tag is already embedded in every book link across the library. No changes needed unless you want to update the tag — if so, find-and-replace `adaliaworks-20` across all HTML files.
 
 **Affiliate disclosure** (required by Amazon's Operating Agreement) is already in the site footer via `partials/footer.html`.
 

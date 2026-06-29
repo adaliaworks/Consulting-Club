@@ -99,7 +99,7 @@ This keeps the owner's review ergonomic (Markdown, in-repo, diff-able) and means
 
 **Phase 8 — Session Kit** (§8), same MD-first loop → `/_review/phase-8-session-kit.md`.
 
-**Phase 9 — QA pass.** Re-read §7b. Verify: (a) no placeholder/stub text anywhere — every content section is real prose; (b) every framework attributed to the correct originator; (c) no invented ASINs — all Amazon links use the tagged-search format with `tag=tmiller0e-20`; (d) the Associates disclosure is in the footer; (e) nav/header/footer render consistently; (f) the form has the redirect field. Fix what fails. **Checkpoint: report the QA results.**
+**Phase 9 — QA pass.** Re-read §7b. Verify: (a) no placeholder/stub text anywhere — every content section is real prose; (b) every framework attributed to the correct originator; (c) no invented ASINs — all Amazon links use the tagged-search format with `tag=adaliaworks-20`; (d) the Associates disclosure is in the footer; (e) nav/header/footer render consistently; (f) the form has the redirect field. Fix what fails. **Checkpoint: report the QA results.**
 
 **Hard rules for the whole build:**
 - **No placeholders, ever.** If you are running low on room or focus, *stop and say so* — leave the manifest honest rather than filling a page with `[Add overview here]` or one-paragraph stubs. A half-built site with honest status beats a "complete" site full of hollow pages.
@@ -181,9 +181,9 @@ Keep the structure visually consistent across all pages (shared CSS classes for 
 
 - **Do not fabricate.** Attribute each framework to its real originator (e.g., Porter; Kaplan & Norton for the Balanced Scorecard; Kim & Mauborgne for Blue Ocean; Barbara Minto for the Pyramid Principle; Simon Wardley for Wardley Mapping; Osterwalder for the Business Model Canvas; etc.). If you are not confident of a specific date or citation, state the attribution at the level you're sure of rather than inventing specifics.
 - **No invented quotes** and no invented ISBNs/ASINs.
-- **Amazon affiliate code: `tmiller0e-20`.** Append it as a `tag` parameter to every Amazon link.
+- **Amazon affiliate code: `adaliaworks-20`.** Append it as a `tag` parameter to every Amazon link.
   - Preferred, breakage-proof format when you don't have a verified product URL: a tagged search link, e.g.
-    `https://www.amazon.com/s?k=competitive+strategy+michael+porter&tag=tmiller0e-20`
+    `https://www.amazon.com/s?k=competitive+strategy+michael+porter&tag=adaliaworks-20`
   - If you reference a specific known edition by title, a product-search link in the format above is safer than guessing an ASIN. **Never** hard-code an ASIN you're not certain of.
 - **Note for the owner (put in README):** Amazon's Operating Agreement requires an affiliate disclosure. Add a short disclosure line in the site footer, e.g. *"As an Amazon Associate, Consulting Club earns from qualifying purchases."*
 
@@ -209,8 +209,8 @@ Use this as the quality/format bar for every content page. (Prose trimmed here f
 > **References & further reading.** Porter, "How Competitive Forces Shape Strategy," *HBR* (1979); Porter, *Competitive Strategy* (1980). [link to the HBR piece / reputable explainer]
 >
 > **Recommended books.**
-> - *Competitive Strategy* — Michael E. Porter — `https://www.amazon.com/s?k=competitive+strategy+porter&tag=tmiller0e-20`
-> - *Understanding Michael Porter* — Joan Magretta — `https://www.amazon.com/s?k=understanding+michael+porter+magretta&tag=tmiller0e-20`
+> - *Competitive Strategy* — Michael E. Porter — `https://www.amazon.com/s?k=competitive+strategy+porter&tag=adaliaworks-20`
+> - *Understanding Michael Porter* — Joan Magretta — `https://www.amazon.com/s?k=understanding+michael+porter+magretta&tag=adaliaworks-20`
 
 ---
 
